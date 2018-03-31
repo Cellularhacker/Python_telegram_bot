@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# bot_core variables and files
+.bot_core/
