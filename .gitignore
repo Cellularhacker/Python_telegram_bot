@@ -102,3 +102,6 @@ ENV/
 
 # bot_core variables and files
 .bot_core/
+
+# vscode extension files
+.vscode/
